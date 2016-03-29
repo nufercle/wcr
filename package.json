@@ -11,5 +11,9 @@
     "webpack"
   ],
   "author": "nufercle",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nufercle/wcr.git"
+  }
 }
