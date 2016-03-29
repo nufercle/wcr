@@ -1,0 +1,15 @@
+{
+  "name": "wcr",
+  "version": "0.9.7",
+  "description": "Webpack Compatible Version of rdfstore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rdfstore",
+    "webpack"
+  ],
+  "author": "nufercle",
+  "license": "MIT"
+}
